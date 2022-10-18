@@ -1,2 +1,2 @@
 # JAMWTU
-Just another minecraft wifi that useless
+Just another minecraft wiki that useless
